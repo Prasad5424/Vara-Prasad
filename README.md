@@ -6,7 +6,13 @@ I am a Data Analyst with a strong foundation in Python, Power BI, SQL, and data 
 ---
 
 ## 👨‍🎓 About Me
-I hold a Bachelor’s degree in Mechanical Engineering and have completed certifications and internships in Data Analysis. I’ve worked with various data sources including XML, TXT, Excel, SQL databases, and applied analytics to solve business problems.
+## 👨‍🎓 About Me
+I am a highly motivated individual with a background in Mechanical Engineering and a strong interest in transforming data into meaningful insights. My journey into data analytics stems from a deep curiosity about how data shapes business decisions and drives growth. I’ve developed a keen eye for identifying patterns, solving real-world problems, and presenting data in a way that tells a clear and compelling story.
+
+My passion for the Data Analyst role comes from the opportunity it offers to combine analytical thinking with practical business impact. Through internships and hands-on projects, I have gained valuable experience working with diverse datasets and have built confidence in approaching data challenges with clarity and purpose.
+
+I’m now focused on applying these skills in a dynamic environment where I can contribute to data-driven decisions and continue evolving as a data professional.
+
 
 ---
 
